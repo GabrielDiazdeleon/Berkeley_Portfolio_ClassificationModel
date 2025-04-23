@@ -1,4 +1,4 @@
-Determining Essential Factors in the Acceptance of Long-Term Deposit Offers
+Determining Essential Factors in the Acceptance of Long-Term Deposit Offers  
 By: Gabriel Diaz de Leon
 
 LINK TO NOTEBOOK: https://github.com/GabrielDiazdeleon/Berkeley_Portfolio_ClassificationModel/blob/db26c84325d92900b17c3a1d20c4f29938347b06/Long-Term%20Deposit%20Classification%20Project.ipynb
